@@ -8,19 +8,46 @@
 sudo apt-get -y update
 sudo apt-get -y upgrade
 
+# Install essential build (make) packages
+sudo apt-get install -y build-essential
+
 # Install Node
-sudo apt-get -y install nodejs
-sudo apt-get -y install npm
+# Note: node and npm are outddated on ubuntu 12, so you have to run the following:
+curl -sL https://deb.nodesource.com/setup | sudo bash -
+sudo apt-get install -y nodejssudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+
+# Update Node
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
 
 # Install git
 sudo apt-get -y install git
+
+# Allow .ssh login
+mkdir ~/.ssh
+touch ~/.ssh/authorized_keys
+# Note: copy your pubkey into here
 
 
 # Load the essentials into the system
 cd ~
 git clone https://github.com/btaratutin/linux-scripts.git
-cd linux-scripts
+cd linux-scripts/scripts
 
 # Set up the bash profile
 cp ./.bash_profile ~/.bash_profile
 source ~/.bash_profile
+
+### Installing Ghost
+cd ~
+git clone git://github.com/tryghost/ghost.git
+cd ghost
+npm install -g grunt-cli
+npm install
+grunt init
+grunt prod
+#npm start
+npm install forever -g # tools for running a server forever
