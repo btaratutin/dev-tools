@@ -14,7 +14,8 @@ sudo apt-get install -y build-essential
 # Install Node
 # Note: node and npm are outddated on ubuntu 12, so you have to run the following:
 curl -sL https://deb.nodesource.com/setup | sudo bash -
-sudo apt-get install -y nodejssudo npm cache clean -f
+sudo apt-get install -y nodejs
+sudo npm cache clean -f
 sudo npm install -g n
 sudo n stable
 
