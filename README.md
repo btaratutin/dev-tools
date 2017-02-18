@@ -9,7 +9,10 @@
 * [Slack](https://slack.com/)
 * [Evernote](https://evernote.com/)
 * [Dropbox](http://www.dropbox.com/)
-* 
+
+## Python
+* [Pip Package Manager](https://pip.pypa.io/en/stable/installing/)
+* [Python VirtualEnv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 ## Reference
 [Git Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
