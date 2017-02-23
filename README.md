@@ -3,7 +3,8 @@
 ## Dev (Mac)
 * Change screenshot location: `mkdir ~/Documents/Screenshots && defaults write com.apple.screencapture location ~/Documents/Screenshots`
 * [Atom Editor](https://atom.io/) - Code Editor
- * Run "Atom > Install Shell Commands" - so you can run from commandline
+ * Run `Atom > Install Shell Commands` - so you can run from commandline
+ * [PhPStorm Mapping for Atom](https://github.com/guylabs/intellij-idea-keymap)
 * [Spark](https://www.shadowlab.org/softwares/spark.php) - Hotkeys for Mac
 * git clone (this repo) && ./copy-profile
 * [Brew](https://brew.sh/)
