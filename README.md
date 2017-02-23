@@ -3,7 +3,9 @@
 ## Mac
 * Change screenshot location: `mkdir ~/Documents/Screenshots && defaults write com.apple.screencapture location ~/Documents/Screenshots`
 * [Atom Editor](https://atom.io/) - Code Editor
+ * Run "Atom > Install Shell Commands" - so you can run from commandline
 * [Spark](https://www.shadowlab.org/softwares/spark.php) - Hotkeys for Mac
+* git clone (this repo) && ./copy-profile
 
 ## Productivity
 * [Slack](https://slack.com/)
