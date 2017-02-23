@@ -13,6 +13,9 @@
  * Update local password `SET PASSWORD FOR 'root'@'localhost' = PASSWORD('');'
  * Update path to include mysql `export PATH=/usr/local/mysql/bin:$PATH` (incl. in this alias)
 * MongoDb `brew install mongodb`
+ * [Set up Permissions](http://treehouse.github.io/installation-guides/mac/mongo-mac.html)
+ * [MongoDb Compass](https://www.mongodb.com/download-center?filter=enterprise#compass)
+ * [MongoClient](https://github.com/rsercano/mongoclient)
 
 ## Productivity
 * [Slack](https://slack.com/)
