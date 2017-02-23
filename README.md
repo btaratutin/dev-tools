@@ -8,6 +8,7 @@
 * git clone (this repo) && ./copy-profile
 * [Brew](https://brew.sh/)
 * [MySQL](https://dev.mysql.com/downloads/mysql/)
+ * [SequelPro](https://sequelpro.com/download)
 * MongoDb `brew install mongodb`
 
 ## Productivity
