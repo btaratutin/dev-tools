@@ -7,6 +7,7 @@
 * [Spark](https://www.shadowlab.org/softwares/spark.php) - Hotkeys for Mac
 * git clone (this repo) && ./copy-profile
 * [Brew](https://brew.sh/)
+* [MySQL](https://dev.mysql.com/downloads/mysql/)
 
 ## Productivity
 * [Slack](https://slack.com/)
