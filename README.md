@@ -9,6 +9,8 @@
 * [Brew](https://brew.sh/)
 * [MySQL](https://dev.mysql.com/downloads/mysql/)
  * [SequelPro](https://sequelpro.com/download)
+ * Update local password `SET PASSWORD FOR 'root'@'localhost' = PASSWORD('');'
+ * Update path to include mysql `export PATH=/usr/local/mysql/bin:$PATH` (incl. in this alias)
 * MongoDb `brew install mongodb`
 
 ## Productivity
