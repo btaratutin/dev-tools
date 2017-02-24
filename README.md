@@ -16,6 +16,7 @@
  * [Set up Permissions](http://treehouse.github.io/installation-guides/mac/mongo-mac.html)
  * [MongoDb Compass](https://www.mongodb.com/download-center?filter=enterprise#compass)
  * [MongoClient](https://github.com/rsercano/mongoclient)
+* [Node, NPM](http://blog.teamtreehouse.com/install-node-js-npm-mac)
 
 ## Productivity
 * [Slack](https://slack.com/)
