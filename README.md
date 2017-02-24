@@ -23,6 +23,10 @@
 * [Evernote](https://evernote.com/)
 * [Dropbox](http://www.dropbox.com/)
 
+## Frontend
+* CSS
+ * Favorite Fonts: 'Helvetica Neue'
+
 ## Python
 * [Pip Package Manager](https://pip.pypa.io/en/stable/installing/)
 * [Python VirtualEnv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
