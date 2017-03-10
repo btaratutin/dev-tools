@@ -26,7 +26,7 @@
 
 ## Frontend
 * CSS
- * Favorite Fonts: 'Helvetica Neue'
+ * Favorite Fonts: 'Helvetica Neue', [Montserrat](https://fonts.google.com/specimen/Montserrat)
 
 ## Python
 * [Pip Package Manager](https://pip.pypa.io/en/stable/installing/)
